@@ -1,0 +1,33 @@
+.container{
+    background-image: url('img/new-bg-img.png');
+    height: 900px;
+    width:1800px;
+    background-size: cover;
+}
+#navbar{
+    margin-left: 130px;
+    font-size: 30px;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+#nav-item{
+    color: white;
+}
+#nav{
+    margin-left: 170px;
+}
+#btn{
+    margin-left: 50px;
+}
+#parahead{
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    margin-top: 1000px;
+    margin-left: 200px;
+}
+#para{
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    margin-top: 200px;
+    margin-left: 200px;
+}
